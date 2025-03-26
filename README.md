@@ -19,13 +19,27 @@ Os resultados indicam que **Instagram e Facebook apresentaram os maiores desafio
 📂 `figuras/` → Gráficos e imagens utilizadas no artigo  
 📂 `scripts/` → Contém uma **API RESTful** para buscar avaliações de usuários na Play Store
 
+
 ---
 
 ## 🔍 Sobre a Norma NBR 17060
 
 A **NBR 17060** estabelece diretrizes e requisitos para garantir acessibilidade em aplicações digitais. Neste estudo, utilizamos um **checklist contendo 54 critérios** da norma para avaliar as redes sociais.  
 
-📄 **Planilha com checklist utilizado na pesquisa**: [Inspeções - Redes Sociais.xlsx](dados/Inspeções%20-%20Redes%20Sociais.xlsx)
+---
+
+## 📝 Dados das Inspeções  
+
+Os checklists utilizados para avaliar a conformidade das redes sociais com a **NBR 17060** estão disponíveis nos arquivos abaixo:  
+
+📄 **Checklist de Inspeção - Instagram**: [📥 Baixar PDF](dados/Instagram.pdf)  
+📄 **Checklist de Inspeção - Facebook**: [📥 Baixar PDF](dados/Facebook.pdf)  
+📄 **Checklist de Inspeção - WhatsApp**: [📥 Baixar PDF](dados/WhatsApp.pdf)  
+📄 **Checklist de Inspeção - TikTok**: [📥 Baixar PDF](dados/TikTok.pdf)  
+📄 **Checklist de Inspeção - X (Twitter)**: [📥 Baixar PDF](dados/X.pdf)  
+📄 **Checklist de Inspeção - Geral)**: [📥 Baixar PDF](dados/Geral.pdf)  
+
+Esses documentos contêm os detalhes de conformidade e não conformidade identificados durante a inspeção das plataformas.
 
 ---
 
