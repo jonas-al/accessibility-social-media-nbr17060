@@ -1,0 +1,21 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "app-store-scraper": "^0.18.0",
+    "express": "^4.19.2",
+    "google-play-scraper": "^10.0.0",
+    "install": "^0.13.0",
+    "npm": "^10.8.2",
+    "translate": "^3.0.0"
+  }
+}

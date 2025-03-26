@@ -1,0 +1,13 @@
+Android:
+instagram = com.instagram.android
+facebook = com.facebook.katana
+whatsapp = com.whatsapp
+tiktok = com.zhiliaoapp.musically
+x = com.twitter.android
+
+iOS:
+com.burbn.instagram
+com.facebook.Facebook
+net.whatsapp.WhatsApp
+com.zhiliaoapp.musically
+com.atebits.Tweetie2
