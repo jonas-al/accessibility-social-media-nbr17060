@@ -37,7 +37,7 @@ Os checklists utilizados para avaliar a conformidade das redes sociais com a **N
 📄 **Checklist de Inspeção - WhatsApp**: [📥 Baixar PDF](dados/WhatsApp.pdf)  
 📄 **Checklist de Inspeção - TikTok**: [📥 Baixar PDF](dados/TikTok.pdf)  
 📄 **Checklist de Inspeção - X (Twitter)**: [📥 Baixar PDF](dados/X.pdf)  
-📄 **Checklist de Inspeção - Geral)**: [📥 Baixar PDF](dados/Geral.pdf)  
+📄 **Checklist de Inspeção - Geral**: [📥 Baixar PDF](dados/Geral.pdf)  
 
 Esses documentos contêm os detalhes de conformidade e não conformidade identificados durante a inspeção das plataformas.
 
